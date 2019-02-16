@@ -1,0 +1,38 @@
+
+body{
+
+padding: 70px;
+background: #000;
+}
+
+
+.jumbotron{
+color: #000;
+
+
+background-color: coral;
+
+}
+.navbar-inverse{
+
+background-color: darkgray;
+
+}
+.navbar-inverse .navbar-brand{
+
+color: blue;
+
+
+}
+.navbar-inverse .navbar-nav > li > a
+{
+
+color: firebrick;
+
+
+}
+.thumbnail:hover{
+opacity: 0.2;
+
+
+}
